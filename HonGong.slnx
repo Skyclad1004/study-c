@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HonGong.vcxproj" Id="8d9928be-4f4a-4ad9-ba04-8d0a5aa8f864" />
+</Solution>

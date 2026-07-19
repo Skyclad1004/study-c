@@ -1,0 +1,11 @@
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+.vs/
+*.vcxproj.user
+HonGong.zip
+MyTemplate.vstemplate
