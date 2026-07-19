@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	printf("Be happy"); // print str "Be happy"
-	printf("My friend"); // print str "My friend
+	printf("Be happy"); // prints "Be happy"
+	printf("My friend"); // prints "My friend"
 
 	return 0;
 }
